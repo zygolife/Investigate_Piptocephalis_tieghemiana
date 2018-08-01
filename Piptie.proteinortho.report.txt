@@ -1,0 +1,14 @@
+4991 total families
+Piptocephalis_tieghemiana_RSA_1565.aa.fasta:
+	0: 3 (0.06%)
+	1: 4983 (99.84%)
+	2: 4 (0.08%)
+	3: 1 (0.02%)
+4994 proteins participate in orthogrps. 9022 total in dataset. 4028 (44.65%) were not clustered
+====
+Piptie1_GeneCatalog_proteins_20180621.aa.fasta:
+	1: 4971 (99.60%)
+	2: 19 (0.38%)
+	3: 1 (0.02%)
+5012 proteins participate in orthogrps. 5811 total in dataset. 799 (13.75%) were not clustered
+====
