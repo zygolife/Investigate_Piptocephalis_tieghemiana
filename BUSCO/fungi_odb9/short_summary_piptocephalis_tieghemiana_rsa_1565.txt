@@ -1,0 +1,15 @@
+# BUSCO version is: 2.0 
+# The lineage dataset is: fungi_odb9 (Creation date: 2016-02-13, number of species: 85, number of BUSCOs: 290)
+# To reproduce this run: python /bigdata/operations/pkgadmin/opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/util/funannotate-BUSCO2.py -i /bigdata/stajichlab/shared/projects/ZyGoLife/CoCulture/annotate/funannot/predict_misc/genome.softmasked.fa -o piptocephalis_tieghemiana_rsa_1565 -l /opt/linux/centos/7.x/x86_64/pkgs/funannotate/git-live/DB/fungi_odb9/ -m genome -c 24 -sp anidulans
+#
+# Summarized benchmarking in BUSCO notation for file /bigdata/stajichlab/shared/projects/ZyGoLife/CoCulture/annotate/funannot/predict_misc/genome.softmasked.fa
+# BUSCO was run in mode: genome
+
+	C:87.2%[S:86.2%,D:1.0%],F:6.6%,M:6.2%,n:290
+
+	253	Complete BUSCOs (C)
+	250	Complete and single-copy BUSCOs (S)
+	3	Complete and duplicated BUSCOs (D)
+	19	Fragmented BUSCOs (F)
+	18	Missing BUSCOs (M)
+	290	Total BUSCO groups searched
