@@ -1,0 +1,9 @@
+           N = 4018
+         SUM = 29006978
+         MIN = 1000
+1ST-QUARTILE = 1303
+      MEDIAN = 1833.0
+3RD-QUARTILE = 3803
+         MAX = 215327
+        MEAN = 7219.25783972
+         N50 = 37975
